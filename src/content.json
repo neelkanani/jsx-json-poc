@@ -1,0 +1,17 @@
+{
+    "type": "div",
+    "props": {
+      "className": "p-4 h-[200px] bg-red-100",
+      "children": [
+        {
+          "type": "h1",
+          "props": { "className": "text-[12px] text-red-500", "children": "Welcome to My App" }
+        },
+        {
+          "type": "p",
+          "props": { "className":"text-blue-500" ,"children": ["This is a sample description."] }
+        }
+      ]
+    }
+  }
+  
